@@ -23,7 +23,7 @@ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:`pwd`
 ```
 * Run the code:
 ```sh
-cd path_to_project/build
+cd path_to_project/world
 gazebo my_world
 ```
 ## License
