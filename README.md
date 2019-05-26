@@ -6,6 +6,13 @@ Main tasks:
 * Import a least one model from Gazebo Online Library
 * **Write C++ plugin** to display "Welcome to my World" message
 
+<p align="center">
+  <img width="460" height="300" src="images/my_world.png">
+  <br>A single floor world created in Gazebo
+</p>
+
+
+
 ## How to use
 * Get and compile the code
 ```sh
