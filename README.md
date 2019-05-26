@@ -33,5 +33,17 @@ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:`pwd`
 cd path_to_project/world
 gazebo my_world
 ```
+
 ## License
 The contents of this repository are covered under the [MIT License](./LICENSE.txt)
+
+
+## Contributing
+
+1. Fork it (<https://github.com/michLab/project_1_build_my_world.git>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+
